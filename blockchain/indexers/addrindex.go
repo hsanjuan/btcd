@@ -9,13 +9,13 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/btcsuite/btcd/blockchain"
-	"github.com/btcsuite/btcd/chaincfg"
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/database"
-	"github.com/btcsuite/btcd/txscript"
-	"github.com/btcsuite/btcd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/hsanjuan/btcd/blockchain"
+	"github.com/hsanjuan/btcd/chaincfg"
+	"github.com/hsanjuan/btcd/chaincfg/chainhash"
+	"github.com/hsanjuan/btcd/database"
+	"github.com/hsanjuan/btcd/txscript"
+	"github.com/hsanjuan/btcd/wire"
+	"github.com/hsanjuan/btcutil"
 )
 
 const (

@@ -5,8 +5,8 @@
 package blockchain
 
 import (
-	"github.com/btcsuite/btcd/database"
-	"github.com/btcsuite/btcutil"
+	"github.com/hsanjuan/btcd/database"
+	"github.com/hsanjuan/btcutil"
 )
 
 // maybeAcceptBlock potentially accepts a block into the block chain and, if
